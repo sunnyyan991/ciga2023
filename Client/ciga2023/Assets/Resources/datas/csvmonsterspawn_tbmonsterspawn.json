@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "cooldown": [
+      3
+    ],
+    "count": 1,
+    "monster": [
+      1001,
+      1002
+    ],
+    "monsterWeight": [
+      20,
+      30
+    ]
+  },
+  {
+    "id": 102,
+    "cooldown": [
+      3
+    ],
+    "count": 1,
+    "monster": [
+      1001,
+      1003
+    ],
+    "monsterWeight": [
+      20,
+      31
+    ]
+  },
+  {
+    "id": 103,
+    "cooldown": [
+      3
+    ],
+    "count": 2,
+    "monster": [
+      1001,
+      1004
+    ],
+    "monsterWeight": [
+      20,
+      32
+    ]
+  }
+]

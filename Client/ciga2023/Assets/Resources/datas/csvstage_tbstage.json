@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "map": "",
+    "score": 15,
+    "time": 80,
+    "monsterSpawn": 101
+  },
+  {
+    "id": 2,
+    "map": "",
+    "score": 20,
+    "time": 120,
+    "monsterSpawn": 102
+  },
+  {
+    "id": 3,
+    "map": "",
+    "score": 30,
+    "time": 400,
+    "monsterSpawn": 103
+  }
+]

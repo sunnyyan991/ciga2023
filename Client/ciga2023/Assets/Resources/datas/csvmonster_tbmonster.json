@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1001,
+    "name": "地鼠1",
+    "monsterPrefab": "",
+    "script": 1,
+    "score": 1,
+    "lifetime": 3,
+    "child": 0
+  },
+  {
+    "id": 1002,
+    "name": "地鼠2",
+    "monsterPrefab": "",
+    "script": 1,
+    "score": 1,
+    "lifetime": 2,
+    "child": 0
+  },
+  {
+    "id": 1003,
+    "name": "屁股",
+    "monsterPrefab": "",
+    "script": 1,
+    "score": 2,
+    "lifetime": 1,
+    "child": 0
+  },
+  {
+    "id": 1004,
+    "name": "分裂地鼠1",
+    "monsterPrefab": "",
+    "script": 0,
+    "score": 1,
+    "lifetime": 1,
+    "child": 1005
+  },
+  {
+    "id": 1005,
+    "name": "分裂地鼠2",
+    "monsterPrefab": "",
+    "script": 0,
+    "score": 2,
+    "lifetime": 1,
+    "child": 0
+  },
+  {
+    "id": 1006,
+    "name": "晕自己",
+    "monsterPrefab": "",
+    "script": 0,
+    "score": 0,
+    "lifetime": 0,
+    "child": 0
+  }
+]
