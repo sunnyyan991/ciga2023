@@ -35,6 +35,7 @@ namespace Logic
             Debug.Log("OnBtnStartClick");
             SceneManager.LoadScene("Scenes/FightMain");
             UIManager.OpenUI(EUIID.FightMain);
+            FightManager.Instance.EnterGame();
             this.CloseSelf();
         }
         private void OnBtnOptionClick()

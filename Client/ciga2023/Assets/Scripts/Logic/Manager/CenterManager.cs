@@ -19,7 +19,7 @@ namespace Logic
             RegisterManager(PoolManager.Instance);
             RegisterManager(LanguageManager.Instance);
             RegisterManager(InputManager.Instance);
-
+            RegisterManager(FightManager.Instance);
 
 
 
